@@ -1,63 +1,68 @@
 [
-    {
-      "id": 1,
-      "author": "Mr. Raju",
-      "date": "Mar 14",
-      "daysAgo": 4,
-      "readTime": 5,
-      "title": "How to get your first job as a self-taught programmer",
-      "tags": ["beginners", "programming"],
-      "img": "https://unsplash.com/photos/IgUR1iX0mqM"
-    },
-    {
-      "id": 2,
-      "author": "Ms. Sarah",
-      "date": "Feb 28",
-      "daysAgo": 18,
-      "readTime": 7,
-      "title": "Mastering JavaScript in 30 Days",
-      "tags": ["javascript", "tutorials"],
-      "img": "https://pexels.com/photo/photo-of-person-typing-on-computer-keyboard-5474297/"
-    },
-    {
-      "id": 3,
-      "author": "John Doe",
-      "date": "Feb 20",
-      "daysAgo": 26,
-      "readTime": 6,
-      "title": "Understanding React Hooks",
-      "tags": ["react", "hooks", "frontend"],
-      "img": "https://unsplash.com/photos/NnKVvqcUPsc"
-    },
-    {
-      "id": 4,
-      "author": "Jane Smith",
-      "date": "Mar 1",
-      "daysAgo": 11,
-      "readTime": 4,
-      "title": "CSS Grid vs Flexbox: Which One to Use?",
-      "tags": ["css", "design"],
-      "img": "https://pixabay.com/photos/code-programming-computer-html-1076536/"
-    },
-    {
-      "id": 5,
-      "author": "Alex Brown",
-      "date": "Feb 18",
-      "daysAgo": 28,
-      "readTime": 8,
-      "title": "A Beginner’s Guide to Backend Development",
-      "tags": ["backend", "nodejs"],
-      "img": "https://pexels.com/photo/laptop-on-table-2047905/"
-    },
-    {
-      "id": 6,
-      "author": "Emily White",
-      "date": "Mar 10",
-      "daysAgo": 8,
-      "readTime": 3,
-      "title": "Creating Responsive Websites with Tailwind CSS",
-      "tags": ["tailwindcss", "responsive"],
-      "img": "https://unsplash.com/photos/dBI_My696Rk"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "author": "Mr. Raju",
+    "date": "Mar 14",
+    "daysAgo": 4,
+    "readTime": 5,
+    "title": "How to get your first job as a self-taught programmer",
+    "tags": ["beginners", "programming"],
+    "img": "https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "author_img": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "author": "Ms. Sarah",
+    "date": "Feb 28",
+    "daysAgo": 18,
+    "readTime": 7,
+    "title": "Mastering JavaScript in 30 Days",
+    "tags": ["javascript", "tutorials"],
+    "img": "https://images.pexels.com/photos/5474297/pexels-photo-5474297.jpeg",
+    "author_img": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 3,
+    "author": "John Doe",
+    "date": "Feb 20",
+    "daysAgo": 26,
+    "readTime": 6,
+    "title": "Understanding React Hooks",
+    "tags": ["react", "hooks", "frontend"],
+    "img": "https://images.unsplash.com/photo-1596495577886-d920f7e38d82",
+    "author_img": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 4,
+    "author": "Jane Smith",
+    "date": "Mar 1",
+    "daysAgo": 11,
+    "readTime": 4,
+    "title": "CSS Grid vs Flexbox: Which One to Use?",
+    "tags": ["css", "design"],
+    "img": "https://cdn.pixabay.com/photo/2015/04/23/17/41/code-736391_960_720.jpg",
+    "author_img": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": 5,
+    "author": "Alex Brown",
+    "date": "Feb 18",
+    "daysAgo": 28,
+    "readTime": 8,
+    "title": "A Beginner’s Guide to Backend Development",
+    "tags": ["backend", "nodejs"],
+    "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg",
+    "author_img": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "id": 6,
+    "author": "Emily White",
+    "date": "Mar 10",
+    "daysAgo": 8,
+    "readTime": 3,
+    "title": "Creating Responsive Websites with Tailwind CSS",
+    "tags": ["tailwindcss", "responsive"],
+    "img": "https://images.unsplash.com/photo-1564865871737-e6f36bc50317",
+    "author_img": "https://randomuser.me/api/portraits/women/6.jpg"
+  }
+]
