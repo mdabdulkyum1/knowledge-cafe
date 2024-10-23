@@ -1,11 +1,11 @@
 import { PiBookmarkSimple } from "react-icons/pi";
 import PropTypes from "prop-types";
-function Blog({ blog }) {
+function Blog({ blog , handelBookmarks }) {
   const { author, date, daysAgo, readTime, title, tags, img, author_img } =
     blog;
 
   return (
-    <div className="space-y-5 mb-3">
+    <article className="space-y-5 mb-3">
       <div className="">
         <img
           src={img}
@@ -31,10 +31,10 @@ function Blog({ blog }) {
           </div>
         </div>
         <div className="flex items-center gap-2">
-          {readTime + "min read"}
-          <span className="cursor-pointer">
+          {readTime} min read
+          <button onClick={()=> handelBookmarks(blog, readTime)} title="Bookmark" className="cursor-pointer">
             <PiBookmarkSimple />
-          </span>
+          </button>
         </div>
       </div>
       <div className="">
@@ -44,12 +44,13 @@ function Blog({ blog }) {
         ))}
       </div>
       <hr />
-    </div>
+    </article>
   );
 }
 
 Blog.propTypes = {
   blog: PropTypes.object.isRequired,
+  handelBookmarks: PropTypes.func,
 };
 
 export default Blog;

@@ -29,7 +29,7 @@
     "readTime": 6,
     "title": "Understanding React Hooks",
     "tags": ["react", "hooks", "frontend"],
-    "img": "https://images.unsplash.com/photo-1596495577886-d920f7e38d82",
+    "img": "https://i.ibb.co.com/CBdTX2Y/92fbaea8-2d51-4af8-93dc-5d7ec8cb2b49.webp",
     "author_img": "https://randomuser.me/api/portraits/men/3.jpg"
   },
   {
@@ -40,7 +40,7 @@
     "readTime": 4,
     "title": "CSS Grid vs Flexbox: Which One to Use?",
     "tags": ["css", "design"],
-    "img": "https://cdn.pixabay.com/photo/2015/04/23/17/41/code-736391_960_720.jpg",
+    "img": "https://i.ibb.co.com/B3Z8V4R/DALL-E-2024-10-23-12-33-20-A-modern-tech-themed-image-representing-the-comparison-between-CSS-Grid-a.webp",
     "author_img": "https://randomuser.me/api/portraits/women/4.jpg"
   },
   {
@@ -62,7 +62,7 @@
     "readTime": 3,
     "title": "Creating Responsive Websites with Tailwind CSS",
     "tags": ["tailwindcss", "responsive"],
-    "img": "https://images.unsplash.com/photo-1564865871737-e6f36bc50317",
+    "img": "https://i.ibb.co.com/52fM2bd/DALL-E-2024-10-23-12-34-51-An-image-that-represents-creating-responsive-websites-using-Tailwind-CSS.webp",
     "author_img": "https://randomuser.me/api/portraits/women/6.jpg"
   }
 ]
